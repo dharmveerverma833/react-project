@@ -9,7 +9,6 @@ function Todo_list() {
     console.log(todos);
     
   }
-
   let addNew = (e) =>{
     setNewTodo(e.target.value);
   }
